@@ -3,6 +3,7 @@
 * Graduado em análise e desenvolvimento de sistemas
 * Entusiasta em desenvolvimento Web/Mobile
 * Atualmente estudando a Microsoft Power Platform 
+* Coofounder - Mode Móveis www.modemoveis.com.br
 <br>
 
  <div style="display: inline_block">
@@ -17,5 +18,3 @@
    <a href="https://www.linkedin.com/in/pedro-pereira-62056883/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:pedro23henrique@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
-  
-   ![Snake animation](https://github.com/peedrinhoph/blob/output/github-contribution-grid-snake.svg)
