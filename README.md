@@ -3,7 +3,7 @@
 * Graduado em análise e desenvolvimento de sistemas
 * Entusiasta em desenvolvimento Web/Mobile
 * Atualmente estudando a Microsoft Power Platform 
-* Co - Founder - Mode Móveis www.modemoveis.com.br
+* Co Founder - Mode Móveis www.modemoveis.com.br
 <br>
 
  <div style="display: inline_block">
