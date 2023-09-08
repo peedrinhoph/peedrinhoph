@@ -1,9 +1,7 @@
 ## Olá!
 ### About me:
 * Graduado em análise e desenvolvimento de sistemas
-* Entusiasta em desenvolvimento Web/Mobile
-* Atualmente estudando a Microsoft Power Platform 
-* Co Founder - Mode Móveis www.modemoveis.com.br
+* Desenvolvedor PHP voltado a Framework Laravel
 <br>
 
  <div style="display: inline_block">
